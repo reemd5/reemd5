@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Reem
 
-<!--
-**reemd5/reemd5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Computer Science student
+* Passionate about building software and learning new technologies
+* Always learning and improving my coding skills
+---
 
-Here are some ideas to get you started:
+### 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+Java, Python, C
+
+**Web Development:**
+HTML, CSS, JavaScript, React.js, PHP, Laravel
+
+**Database:**
+SQL
+
+**Tools:**
+Git, GitHub, AWS
+
+---
+
+### 📌 Current Focus
+
+* Improving my coding and problem-solving skills
+* Building real-world projects
